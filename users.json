@@ -1,0 +1,409 @@
+[
+  {
+    "name": {
+      "title": "Mr",
+      "first": "joe",
+      "last": "jack"
+    },
+    "email": "joe@gmail.com",
+    "gender": "male",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/men/76.jpg"
+    },
+    "location": {
+      "street": {
+        "number": 0,
+        "name": "pune"
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "postcode": ""
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-07-19"
+    },
+    "nat": "IN"
+  },
+  {
+    "name": {
+      "title": "Ms.",
+      "first": "Jane",
+      "last": "Yasmin"
+    },
+    "email": "Jane@gmail.com",
+    "gender": "female",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/women/76.jpg"
+    },
+    "location": {
+      "street": {
+        "number": 0,
+        "name": "korean"
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "postcode": ""
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-08-14"
+    },
+    "nat": "KO"
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "kiran",
+      "last": "jack"
+    },
+    "email": "kiran@gmail.com",
+    "location": {
+      "street": {
+        "number": "39",
+        "name": "navi"
+      },
+      "city": "mumbai",
+      "state": "maharashtra",
+      "country": "India",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-02-05"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/women/56.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "jack",
+      "last": "persian"
+    },
+    "email": "jack@gmail.com",
+    "location": {
+      "street": {
+        "number": "39",
+        "name": "london"
+      },
+      "city": "london",
+      "state": "US",
+      "country": "US",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-02-05"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/men/36.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "jabra",
+      "last": "jack"
+    },
+    "email": "jabra@gmail.com",
+    "location": {
+      "street": {
+        "number": "39",
+        "name": "pune"
+      },
+      "city": "pune",
+      "state": "maharashtra",
+      "country": "INdia",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-02-05"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/women/76.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "anaya",
+      "last": "jack"
+    },
+    "email": "anaya@gmail.com",
+    "location": {
+      "street": {
+        "number": "39",
+        "name": "pune"
+      },
+      "city": "pune",
+      "state": "maharashtra",
+      "country": "INdia",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-02-05"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/women/76.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "kailas",
+      "last": "jack"
+    },
+    "email": "kailas@gmail.com",
+    "location": {
+      "street": {
+        "number": "39",
+        "name": "pune"
+      },
+      "city": "pune",
+      "state": "maharashtra",
+      "country": "INdia",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-02-05"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/men/76.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "jack",
+      "last": "persian"
+    },
+    "email": "jack@gmail.com",
+    "location": {
+      "street": {
+        "number": "39",
+        "name": "london"
+      },
+      "city": "london",
+      "state": "US",
+      "country": "US",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-02-05"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/men/36.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "jabra",
+      "last": "jack"
+    },
+    "email": "jabra@gmail.com",
+    "location": {
+      "street": {
+        "number": "39",
+        "name": "pune"
+      },
+      "city": "pune",
+      "state": "maharashtra",
+      "country": "INdia",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-02-05"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/women/76.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "anaya",
+      "last": "jack"
+    },
+    "email": "anaya@gmail.com",
+    "location": {
+      "street": {
+        "number": "39",
+        "name": "pune"
+      },
+      "city": "pune",
+      "state": "maharashtra",
+      "country": "INdia",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-02-05"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/women/76.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "kailas",
+      "last": "jack"
+    },
+    "email": "kailas@gmail.com",
+    "location": {
+      "street": {
+        "number": "39",
+        "name": "pune"
+      },
+      "city": "pune",
+      "state": "maharashtra",
+      "country": "INdia",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-02-05"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/men/76.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "Jane",
+      "last": "jack"
+    },
+    "email": "Jane@gmail.com",
+    "location": {
+      "street": {
+        "number": "39",
+        "name": "pune"
+      },
+      "city": "pune",
+      "state": "maharashtra",
+      "country": "INdia",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-02-05"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/women/76.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "Jane",
+      "last": "jack"
+    },
+    "email": "Jane@gmail.com",
+    "location": {
+      "street": {
+        "number": "39",
+        "name": "pune"
+      },
+      "city": "pune",
+      "state": "maharashtra",
+      "country": "INdia",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-02-05"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/women/76.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Mr",
+      "first": "Yafis",
+      "last": "Khan"
+    },
+    "email": "yafis@gmail.com",
+    "location": {
+      "street": {
+        "number": "39",
+        "name": "wakad"
+      },
+      "city": "pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2024-02-03"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/men/23.jpg"
+    }
+  },
+  {
+    "name": {
+      "title": "Ms",
+      "first": "anaya",
+      "last": "patil"
+    },
+    "email": "anaya@gmail.com",
+    "location": {
+      "street": {
+        "number": "43",
+        "name": "katraj"
+      },
+      "city": "pune",
+      "state": "maharashtra",
+      "country": "india",
+      "postcode": "123444"
+    },
+    "phone": "9122020299",
+    "cell": "12211133-1131",
+    "dob": {
+      "date": "2012-05-04"
+    },
+    "nat": "IN",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/women/26.jpg"
+    }
+  }
+]

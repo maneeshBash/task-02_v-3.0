@@ -1,0 +1,222 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #000000;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 20px;
+}
+
+.table-container {
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+#userTable {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #000000;
+    color: #e0e0e0;
+    margin-top: 20px;
+    border-left: 1px solid #555;
+    border-right: 1px solid #555;
+}
+
+#userTable th {
+    background-color: #2b2a2a;
+    color: #e0e0e0;
+    font-weight: normal;
+}
+
+#userTable th,
+#userTable td {
+    border: 1px solid #343434;
+    padding: 12px;
+    text-align: left;
+    border-left: none;
+    border-right: none;
+}
+
+#userTable tbody tr:hover {
+    background-color: #555;
+    cursor: pointer;
+}
+
+#userTable img {
+    width: 50px;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid #82e8ef;
+}
+
+h1 {
+    text-align: center;
+    color: #e0e0e0;
+}
+
+label {
+    font-size: 20px;
+    color: #e0e0e0;
+}
+
+input[type="number"],
+button {
+    font-size: 16px;
+    padding: 10px 15px;
+    margin-right: 10px;
+    border-radius: 25px;
+    border: 1px solid #555;
+    background-color: #000000;
+    color: #e0e0e0;
+    outline: none;
+}
+
+input[type="number"]:focus,
+button:hover {
+    border-color: #82e8ef;
+    background-color: #4c4c4c;
+}
+
+button {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #82e8ef;
+    color: #000000;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#paginationControls {
+    margin-top: 20px;
+}
+
+#pageInfo {
+    margin-top: 20px;
+}
+
+#paginationControls button {
+    font-size: 16px;
+    padding: 10px 15px;
+    margin: 2px;
+    border-radius: 15px;
+    border: 1px solid #555;
+    background-color: #000000;
+    color: #dfdada;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#paginationControls button:hover {
+    background-color: #555;
+}
+
+#paginationControls button.active {
+    border: 3px solid #82e8ef;
+    font-weight: bold;
+}
+
+#paginationControls button:disabled {
+    background-color: #555;
+    color: #e0e0e0;
+    cursor: not-allowed;
+}
+.pagination{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+/* Form */
+.form-container {
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #333; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2); 
+}
+
+.form-container h2 {
+    text-align: center;
+    color: #e0e0e0;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.form-container label {
+    display: block;
+    font-size: 16px;
+    color: #e0e0e0;
+    margin-bottom: 8px;
+}
+
+.form-container input[type="text"],
+.form-container input[type="email"],
+.form-container input[type="number"],
+.form-container select,
+.form-container input[type="date"] {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    border: 1px solid #555;
+    border-radius: 4px;
+    background-color: #444; 
+    color: #e0e0e0;
+}
+
+.form-container input[type="date"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #555;
+    border-radius: 4px;
+    background-color: #444; 
+}
+
+.form-container input:focus,
+.form-container select:focus {
+    border-color: #82e8ef; 
+    outline: none;
+}
+
+/* Submit Button */
+.form-container button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #82e8ef;
+    border: none;
+    color: #000000;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+}
+.form-container button[type="submit"]:hover {
+    background-color: #66c3e3;
+}
+
+/* Responsive Styling */
+@media (max-width: 600px) {
+    .form-container {
+        padding: 15px;
+    }
+    
+    .form-container h2 {
+        font-size: 20px;
+    }
+    
+    .form-container input[type="text"],
+    .form-container input[type="email"],
+    .form-container input[type="number"],
+    .form-container select,
+    .form-container input[type="date"],
+    .form-container button[type="submit"] {
+        font-size: 14px;
+        padding: 8px;
+    }
+}
